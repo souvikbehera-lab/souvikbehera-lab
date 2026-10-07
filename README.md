@@ -38,7 +38,7 @@
 
 <a href="https://github.com/souvikbehera-lab">GitHub</a>
 
-<p align="center"><sub>A.Souvik_behera · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>-
+<p align="center"><sub>A.Souvik_behera · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator"></a></sub></p>-
 **souvikbehera-lab/souvikbehera-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
