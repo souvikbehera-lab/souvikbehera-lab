@@ -38,4 +38,4 @@
 
 <a href="https://github.com/souvikbehera-lab">GitHub</a>
 
-<p align="center"><sub>A.Souvik_behera · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator"></a></sub></p>-
+<p align="center"><sub>&copy;A.Souvik_behera<a href="https://www.gitskins.com/readme-generator"></a></sub></p>
