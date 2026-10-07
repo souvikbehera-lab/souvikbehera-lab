@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!-## Selected work
-
 <div align="center">
 
 <p align="center">
@@ -15,7 +13,7 @@
 
 ## The idea behind the work
 
-> A computer science student currently learning c++ .
+> A currently learning .
 
 - 📍 Based in **India**
 - 👥 **20** followers · **10** following
